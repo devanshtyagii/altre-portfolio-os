@@ -1,5 +1,11 @@
 import { AlertTriangle, CheckCircle2, Info } from 'lucide-react'
 
+/**
+ * Colour-coded callout for concentration, vacancy, and expiry notes.
+ * `tone` is red | amber | green (background, text, and icon).
+ * Props: tone, children, delay (stagger, seconds).
+ */
+
 const ICONS = {
   red: AlertTriangle,
   amber: Info,

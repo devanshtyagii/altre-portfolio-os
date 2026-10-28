@@ -1,5 +1,10 @@
 import AnimatedNumber from './AnimatedNumber'
 
+/**
+ * Headline metric tile used on Dashboard, Triggers, and Benchmarking.
+ * `value` counts up via AnimatedNumber; pass `children` instead when the figure is not numeric.
+ * Props: label, value, decimals, prefix, suffix, hint, icon, delay (stagger, seconds), children.
+ */
 export default function KpiCard({
   label,
   value,

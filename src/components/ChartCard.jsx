@@ -1,3 +1,7 @@
+/**
+ * Shared chart chrome: titled card, fade-up stagger, and a colour legend under the plot.
+ * Props: title, delay (seconds), legend ({ label, color }[]), children (plot or table), className.
+ */
 export default function ChartCard({ title, delay = 0, legend, children, className = '' }) {
   return (
     <section className={`card card-pad ${className}`} style={{ animationDelay: `${delay}s` }}>

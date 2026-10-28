@@ -1,6 +1,11 @@
 import { useEffect, useState } from 'react'
 import { formatEnIn } from '../lib/format'
 
+/**
+ * Counts from 0 to `value` in `duration` ms with ease-out, formatted en-IN.
+ * Skips motion when prefers-reduced-motion is set. Used inside KpiCard.
+ * Props: value, duration, decimals, prefix, suffix, className.
+ */
 export default function AnimatedNumber({
   value = 0,
   duration = 1000,
