@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-label="Benchmarking screenshot placeholder">
+  <rect width="960" height="540" fill="#f4f3fb"/>
+  <rect width="160" height="540" fill="#3b0764"/>
+  <rect x="184" y="24" width="752" height="140" rx="16" fill="#7c3aed"/>
+  <rect x="184" y="184" width="172" height="88" rx="16" fill="#fff" stroke="#e7e4f3"/>
+  <rect x="372" y="184" width="172" height="88" rx="16" fill="#fff" stroke="#e7e4f3"/>
+  <rect x="560" y="184" width="172" height="88" rx="16" fill="#fff" stroke="#e7e4f3"/>
+  <rect x="748" y="184" width="188" height="88" rx="16" fill="#fff" stroke="#e7e4f3"/>
+  <rect x="184" y="292" width="752" height="224" rx="16" fill="#fff" stroke="#e7e4f3"/>
+  <text x="480" y="420" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" fill="#fff">Benchmarking  replace with screenshot</text>
+</svg>

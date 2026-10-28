@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-label="Triggers screenshot placeholder">
+  <rect width="960" height="540" fill="#f4f3fb"/>
+  <rect width="160" height="540" fill="#3b0764"/>
+  <rect x="184" y="24" width="232" height="120" rx="16" fill="#fff" stroke="#e7e4f3"/>
+  <rect x="440" y="24" width="232" height="120" rx="16" fill="#fff" stroke="#e7e4f3"/>
+  <rect x="696" y="24" width="240" height="120" rx="16" fill="#fff" stroke="#e7e4f3"/>
+  <rect x="184" y="168" width="752" height="348" rx="16" fill="#fff" stroke="#e7e4f3"/>
+  <text x="480" y="360" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" fill="#6b6785">Triggers  replace with screenshot</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-label="Upload screenshot placeholder">
+  <rect width="960" height="540" fill="#f4f3fb"/>
+  <rect width="160" height="540" fill="#3b0764"/>
+  <rect x="184" y="24" width="752" height="492" rx="16" fill="#fff" stroke="#e7e4f3"/>
+  <rect x="232" y="160" width="656" height="200" rx="16" fill="#ede9fe" stroke="#6d28d9" stroke-dasharray="8 6"/>
+  <text x="480" y="430" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" fill="#6b6785">Upload  replace with screenshot</text>
+</svg>

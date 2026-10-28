@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-label="Lease Data screenshot placeholder">
+  <rect width="960" height="540" fill="#f4f3fb"/>
+  <rect width="160" height="540" fill="#3b0764"/>
+  <rect x="184" y="24" width="752" height="492" rx="16" fill="#fff" stroke="#e7e4f3"/>
+  <rect x="208" y="88" width="280" height="36" rx="10" fill="#f4f3fb" stroke="#e7e4f3"/>
+  <rect x="208" y="148" width="704" height="40" rx="8" fill="#f4f3fb"/>
+  <rect x="208" y="200" width="704" height="40" rx="8" fill="#f4f3fb"/>
+  <rect x="208" y="252" width="704" height="40" rx="8" fill="#f4f3fb"/>
+  <text x="480" y="420" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" fill="#6b6785">Lease Data  replace with screenshot</text>
+</svg>
