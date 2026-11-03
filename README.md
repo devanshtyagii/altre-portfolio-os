@@ -6,11 +6,8 @@ This repository is a front-end prototype. **All numbers, leases, and charts are 
 
 ## Live demo
 
-[Add production URL here](https://example.com) — replace this placeholder after you deploy (Vercel, Netlify, or GitHub Pages).
+https://altre-portfolio-cuq7ombia-devansh-tyagis-projects-b7be4a4e.vercel.app?_vercel_share=jQV8YWevCqXnzmBUudsu9bb2YMlTgRtv
 
-## Screenshots
-
-Replace the files in [`docs/`](docs/) with captures from a 1440px window (light theme). The images below are layout placeholders until then.
 
 | Page | Preview |
 | --- | --- |
