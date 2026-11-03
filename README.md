@@ -8,16 +8,6 @@ This repository is a front-end prototype. **All numbers, leases, and charts are 
 
 https://altre-portfolio-cuq7ombia-devansh-tyagis-projects-b7be4a4e.vercel.app?_vercel_share=jQV8YWevCqXnzmBUudsu9bb2YMlTgRtv
 
-
-| Page | Preview |
-| --- | --- |
-| Workspace | ![Workspace](docs/workspace.svg) |
-| Dashboard | ![Dashboard](docs/dashboard.svg) |
-| Upload | ![Upload](docs/upload.svg) |
-| Lease Data | ![Lease Data](docs/lease-data.svg) |
-| Triggers | ![Triggers](docs/triggers.svg) |
-| Benchmarking | ![Benchmarking](docs/benchmarking.svg) |
-
 ## Tech stack
 
 - **React** — UI and routing views
